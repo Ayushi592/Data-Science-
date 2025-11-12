@@ -1,7 +1,5 @@
 # Data Science Lab Practicals
 
-## Overview
-
 This repository contains a variety of data science projects, experiments, and code examples written mainly in Jupyter Notebook, R, and Python. It serves as a workspace for exploring topics in data analysis, machine learning, and statistical modeling.
 
 
